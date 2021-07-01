@@ -1,5 +1,5 @@
 
-> 이 페이지를 [https://minedgeekble.github.io/minedgeekble_test3/](https://minedgeekble.github.io/minedgeekble_test3/)으로 열기
+> 이 페이지를 [https://github.com/minedgeekble/minedgeekble_test3/releases)으로 열기
 
 ## 확장으로 사용
 
